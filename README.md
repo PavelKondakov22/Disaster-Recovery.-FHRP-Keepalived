@@ -33,6 +33,6 @@ https://github.com/PavelKondakov22/Disaster-Recovery.-FHRP-Keepalived/blob/main/
   
 https://github.com/PavelKondakov22/Disaster-Recovery.-FHRP-Keepalived/blob/main/keepalived.conf
 
-![alt text](https://github.com/PavelKondakov22/Disaster-Recovery.-FHRP-Keepalived/blob/main/VirtualBox_ubuntu_15_12_2023_18_38_40.png  
+![alt text](https://github.com/PavelKondakov22/Disaster-Recovery.-FHRP-Keepalived/blob/main/VirtualBox_ubuntu_15_12_2023_18_38_40.png)  
 
-![alt text](https://github.com/PavelKondakov22/Disaster-Recovery.-FHRP-Keepalived/blob/main/VirtualBox_ub_15_12_2023_18_55_05.png  
+![alt text](https://github.com/PavelKondakov22/Disaster-Recovery.-FHRP-Keepalived/blob/main/VirtualBox_ub_15_12_2023_18_55_05.png)  
