@@ -12,9 +12,9 @@ Disaster Recovery. FHRP и Keepalived Кондаков Павел
 - Для проверки корректности настройки, разорвите один из кабелей между одним из маршрутизаторов и Switch0 и запустите ping между PC0 и Server0.
 - На проверку отправьте получившуюся схему в формате pkt и скриншот, где виден процесс настройки маршрутизатора.
 
-![alt text](https://github.com/PavelKondakov22/Disaster-Recovery.-FHRP-Keepalived/blob/main/z1%20conf%20r1.png  
-![alt text](https://github.com/PavelKondakov22/Disaster-Recovery.-FHRP-Keepalived/blob/main/z1%20conf%20r2.png  
-![alt text](https://github.com/PavelKondakov22/Disaster-Recovery.-FHRP-Keepalived/blob/main/z1%20final.png  
+![alt text](https://github.com/PavelKondakov22/Disaster-Recovery.-FHRP-Keepalived/blob/main/z1%20conf%20r1.png)   
+![alt text](https://github.com/PavelKondakov22/Disaster-Recovery.-FHRP-Keepalived/blob/main/z1%20conf%20r2.png)   
+![alt text](https://github.com/PavelKondakov22/Disaster-Recovery.-FHRP-Keepalived/blob/main/z1%20final.png)  
   
 https://github.com/PavelKondakov22/Disaster-Recovery.-FHRP-Keepalived/blob/main/hsrp_advanced_kondakovpv.pkt  
 
